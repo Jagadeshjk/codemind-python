@@ -1,3 +1,3 @@
-r=int(input())
-b=3.14*r*r
+a=int(input())
+b=a*3.14*a
 print("%.2f"%b)
